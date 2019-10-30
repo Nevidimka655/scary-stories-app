@@ -1,0 +1,16 @@
+# .field name data
+.field minimal_ver 1.0.0
+.field minimal_andromeda_module_ver 1.0
+.field latest_app_ver 1.0.0
+.field url_to_downgrade_update none
+.field use_downgrade_update_instead_latest off
+.field url_to_update none
+.field block_all_updates off
+.field enable_ads on
+# .message name interface_id {lang_some:Message for this lang}
+# interface_id can be duplicate
+.message test some_interface_id {
+lang_en:This is test message!
+lang_ru:The msg
+lang_uk:This derab
+}
