@@ -1,7 +1,6 @@
 # .field name data
 .field minimal_code_version 1
 .field minimal_andromeda_module_ver 1
-.field erase_in_client_all_app_data off
 .field latest_app_code_version 1
 .field url_to_downgrade_update none
 .field use_downgrade_update_instead_latest off
