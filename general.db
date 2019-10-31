@@ -4,7 +4,7 @@
 .field latest_app_ver 1.0.0
 .field url_to_downgrade_update none
 .field use_downgrade_update_instead_latest off
-.field url_to_update none
+.field url_to_update https://drive.google.com/uc?export=download&id=17Ab1_eOZNtFOyqp9GIcfwy-pQWqMKL1o
 .field block_all_updates off
 .field enable_ads on
 # .message name interface_id {lang_some:Message for this lang}
