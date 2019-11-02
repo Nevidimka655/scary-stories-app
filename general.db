@@ -14,3 +14,8 @@ lang_en:This is test message!
 lang_ru:The msg
 lang_uk:This derab
 }
+.array urls_to_update {
+item:English:
+item:Русский:https://drive.google.com/uc?export=download&id=17Ab1_eOZNtFOyqp9GIcfwy-pQWqMKL1o
+item:Украинский:
+}
