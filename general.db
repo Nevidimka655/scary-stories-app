@@ -4,7 +4,7 @@
 .field latest_app_code_version 1
 .field url_to_downgrade_update none
 .field use_downgrade_update_instead_latest off
-.field url_to_update https://drive.google.com/uc?export=download&id=17Ab1_eOZNtFOyqp9GIcfwy-pQWqMKL1o
+.field url_to_update https://drive.google.com/uc?export=download&id=1-d7WaNQNU3zItZ0z5py4qZNHPO-_9NQp
 .field block_all_updates off
 .field enable_ads on
 .field latest_database_with_stories_version 1
