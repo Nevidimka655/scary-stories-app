@@ -4,19 +4,19 @@
 .field latest_app_code_version 1
 .field url_to_downgrade_update none
 .field use_downgrade_update_instead_latest off
-.field url_to_update https://drive.google.com/uc?export=download&id=1MEkzbLep685D2mK6PI91Hi1Qyi6SoGy3
+.field url_to_update https://drive.google.com/uc?export=download&id=1fzGSP-T4FVIaiI51951P_KPcPPcZkKfZ
 .field block_all_updates off
 .field enable_ads on
-.field latest_database_with_stories_version 2
+.field latest_database_with_stories_version 1
 # .message name interface_id {lang_some:Message for this lang}
 # interface_id can be duplicate
-.message test main {
-lang_en:This is test message!
-lang_ru:The msg
-lang_uk:This derab
-}
+#.message test main {
+#lang_en:This is test message!
+#lang_ru:The msg
+#lang_uk:This derab
+#}
 .array urls_to_update {
 item:English:
-item:Русский:https://drive.google.com/uc?export=download&id=1MEkzbLep685D2mK6PI91Hi1Qyi6SoGy3
+item:Русский:https://drive.google.com/uc?export=download&id=1fzGSP-T4FVIaiI51951P_KPcPPcZkKfZ
 item:Украинский:
 }
