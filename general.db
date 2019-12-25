@@ -1,7 +1,7 @@
 # .field name data
-.field minimal_code_version 1
+.field minimal_code_version 3
 .field minimal_andromeda_module_ver 1
-.field latest_app_code_version 1
+.field latest_app_code_version 4
 .field url_to_downgrade_update none
 .field use_downgrade_update_instead_latest off
 .field url_to_update https://drive.google.com/uc?export=download&id=1fzGSP-T4FVIaiI51951P_KPcPPcZkKfZ
